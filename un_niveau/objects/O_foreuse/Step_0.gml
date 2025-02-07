@@ -1,0 +1,10 @@
+var press_E = keyboard_check_pressed(ord("E"));
+var collision_player = instance_place(x,y,O_player);
+if (O_player.gravite == 1){
+	if (collision_player > 0){
+		if (press_E){
+			O_player.foreuse = true
+			instance_destroy()
+		}
+	}
+}
