@@ -9,7 +9,10 @@
     "name":"interraction_lune",
     "path":"folders/Objects/lune/interraction_lune.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"O_parent_bordure_lune",
+    "path":"objects/O_parent_bordure_lune/O_parent_bordure_lune.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -27,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"asteroid",
+    "path":"sprites/asteroid/asteroid.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

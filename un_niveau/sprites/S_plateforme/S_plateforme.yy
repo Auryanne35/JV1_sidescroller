@@ -23,7 +23,7 @@
   ],
   "name":"S_plateforme",
   "nineSlice":null,
-  "origin":0,
+  "origin":1,
   "parent":{
     "name":"decor",
     "path":"folders/Sprites/design_vaisseau/decor.yy",
@@ -75,7 +75,7 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
+    "xorigin":32,
     "yorigin":0,
   },
   "swatchColours":null,

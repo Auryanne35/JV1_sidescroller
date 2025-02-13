@@ -2,7 +2,7 @@
   "$GMObject":"",
   "%Name":"O_collider_gravity_down",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"O_collider_gravity_down",
@@ -34,5 +34,5 @@
     "path":"sprites/S_collider_gravity/S_collider_gravity.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

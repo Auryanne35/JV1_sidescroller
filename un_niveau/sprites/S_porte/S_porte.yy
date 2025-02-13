@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"S_porte",
   "bboxMode":0,
-  "bbox_bottom":127,
+  "bbox_bottom":95,
   "bbox_left":0,
-  "bbox_right":63,
+  "bbox_right":47,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":128,
+  "height":96,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"181024b0-3ce0-42af-ac20-a685be4707c2","blendMode":0,"displayName":"default","isLocked":false,"name":"181024b0-3ce0-42af-ac20-a685be4707c2","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":64,
+  "width":48,
 }

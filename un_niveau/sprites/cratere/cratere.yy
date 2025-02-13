@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"decor",
-    "path":"folders/Sprites/design_lune/decor.yy",
+    "name":"interraction_lune",
+    "path":"folders/Sprites/design_lune/interraction_lune.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

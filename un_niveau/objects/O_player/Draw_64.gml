@@ -109,3 +109,19 @@ if(gravite == 3){	/// @DnDAction : YoYo Games.Drawing.Draw_Sprite
 	/// @DnDArgument : "image" "oxygen"
 	/// @DnDSaveInfo : "sprite" "S_barre_oxygen"
 	draw_sprite(S_barre_oxygen, oxygen, 130, 10);}
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 105F652E
+/// @DnDArgument : "var" "gravite"
+/// @DnDArgument : "value" "5"
+if(gravite == 5){	/// @DnDAction : YoYo Games.Drawing.Draw_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 21190AC3
+	/// @DnDParent : 105F652E
+	/// @DnDArgument : "x" "130"
+	/// @DnDArgument : "y" "10"
+	/// @DnDArgument : "sprite" "S_barre_oxygen"
+	/// @DnDArgument : "image" "oxygen"
+	/// @DnDSaveInfo : "sprite" "S_barre_oxygen"
+	draw_sprite(S_barre_oxygen, oxygen, 130, 10);}
