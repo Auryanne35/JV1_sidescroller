@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"fond",
-    "path":"folders/Objects/vaisseau/fond.yy",
+    "path":"folders/Objects/O_room_Jeu/vaisseau/fond.yy",
   },
   "parentObjectId":null,
   "persistent":false,

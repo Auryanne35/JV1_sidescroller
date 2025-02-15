@@ -17,7 +17,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"UI_player",
-    "path":"folders/Objects/UI_player.yy",
+    "path":"folders/Objects/O_room_Jeu/UI_player.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -49,6 +49,7 @@
     {"$GMObjectProperty":"v1","%Name":"oxygen","filters":[],"listItems":[],"multiselect":false,"name":"oxygen","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"walk_gravity_four","filters":[],"listItems":[],"multiselect":false,"name":"walk_gravity_four","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
     {"$GMObjectProperty":"v1","%Name":"minerai","filters":[],"listItems":[],"multiselect":false,"name":"minerai","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
+    {"$GMObjectProperty":"v1","%Name":"texte","filters":[],"listItems":[],"multiselect":false,"name":"texte","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"vide","varType":2,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

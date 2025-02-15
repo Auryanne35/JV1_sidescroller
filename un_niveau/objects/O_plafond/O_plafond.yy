@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"bordure",
-    "path":"folders/Objects/vaisseau/interraction/bordure.yy",
+    "path":"folders/Objects/O_room_Jeu/vaisseau/interraction/bordure.yy",
   },
   "parentObjectId":{
     "name":"O_parent_bordure_vaisseau",

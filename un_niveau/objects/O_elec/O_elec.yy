@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"interraction",
-    "path":"folders/Objects/vaisseau/interraction.yy",
+    "path":"folders/Objects/O_room_Jeu/vaisseau/interraction.yy",
   },
   "parentObjectId":null,
   "persistent":false,

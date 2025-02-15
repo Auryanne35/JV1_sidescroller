@@ -29,7 +29,7 @@
   "origin":0,
   "parent":{
     "name":"decor_sans_interraction",
-    "path":"folders/Sprites/design_vaisseau/decor/decor_sans_interraction.yy",
+    "path":"folders/Sprites/S_room_Jeu/design_vaisseau/decor/decor_sans_interraction.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

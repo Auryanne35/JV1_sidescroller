@@ -31,7 +31,7 @@
   "origin":1,
   "parent":{
     "name":"joueur",
-    "path":"folders/Sprites/joueur.yy",
+    "path":"folders/Sprites/S_room_Jeu/joueur.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

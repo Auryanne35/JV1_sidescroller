@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"interraction_lune",
-    "path":"folders/Objects/lune/interraction_lune.yy",
+    "path":"folders/Objects/O_room_Jeu/lune/interraction_lune.yy",
   },
   "parentObjectId":{
     "name":"O_parent_bordure_lune",

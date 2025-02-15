@@ -30,7 +30,7 @@
   "origin":0,
   "parent":{
     "name":"interraction",
-    "path":"folders/Sprites/design_vaisseau/interraction.yy",
+    "path":"folders/Sprites/S_room_Jeu/design_vaisseau/interraction.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -2,22 +2,24 @@
 /// @DnDVersion : 1
 /// @DnDHash : 0459C267
 /// @DnDArgument : "var" "pv"
-if(pv == 0){	/// @DnDAction : YoYo Games.Rooms.Restart_Room
+if(pv == 0){	/// @DnDAction : YoYo Games.Common.Execute_Code
 	/// @DnDVersion : 1
-	/// @DnDHash : 073CE418
+	/// @DnDHash : 329CAA6F
 	/// @DnDParent : 0459C267
-	room_restart();}
+	/// @DnDArgument : "code" "room_goto(Mort)"
+	room_goto(Mort)}
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
 /// @DnDHash : 479A6A4E
 /// @DnDArgument : "var" "oxygen"
 /// @DnDArgument : "value" "111"
-if(oxygen == 111){	/// @DnDAction : YoYo Games.Rooms.Restart_Room
+if(oxygen == 111){	/// @DnDAction : YoYo Games.Common.Execute_Code
 	/// @DnDVersion : 1
-	/// @DnDHash : 6ADFFFFB
+	/// @DnDHash : 7B8E33D8
 	/// @DnDParent : 479A6A4E
-	room_restart();}
+	/// @DnDArgument : "code" "room_goto(Mort)"
+	room_goto(Mort)}
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1

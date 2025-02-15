@@ -27,7 +27,7 @@
   "origin":1,
   "parent":{
     "name":"decor",
-    "path":"folders/Sprites/design_vaisseau/decor.yy",
+    "path":"folders/Sprites/S_room_Jeu/design_vaisseau/decor.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -30,7 +30,7 @@
   "origin":0,
   "parent":{
     "name":"interraction_lune",
-    "path":"folders/Sprites/design_lune/interraction_lune.yy",
+    "path":"folders/Sprites/S_room_Jeu/design_lune/interraction_lune.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
